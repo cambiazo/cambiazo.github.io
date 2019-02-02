@@ -1,1 +1,1 @@
-![aCoolBike.jpg](bridgeClub.jpg)
+![aCoolBike.jpg](/_posts/bridgeClub.jpg)
