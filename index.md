@@ -1,3 +1,5 @@
-# Welcome to my blog
+# Welcome to my tutorial webpage.
 
-I'm glad you are here. I plan to talk about ...
+Things might exist here eventually. 
+
+
