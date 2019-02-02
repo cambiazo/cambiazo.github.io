@@ -1,1 +1,1 @@
-![aCoolBike.jpg](/bridgeClub.jpg)
+![aCoolBike.jpg](/github-pages-with-jekyll/bridgeClub.jpg)
